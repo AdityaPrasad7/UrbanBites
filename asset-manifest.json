@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UrbanBites/static/css/main.78e281ca.css",
+    "main.js": "/UrbanBites/static/js/main.f13a99a6.js",
+    "static/js/787.d4aba7ab.chunk.js": "/UrbanBites/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/UrbanBites/index.html",
+    "main.78e281ca.css.map": "/UrbanBites/static/css/main.78e281ca.css.map",
+    "main.f13a99a6.js.map": "/UrbanBites/static/js/main.f13a99a6.js.map",
+    "787.d4aba7ab.chunk.js.map": "/UrbanBites/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e281ca.css",
+    "static/js/main.f13a99a6.js"
+  ]
+}
